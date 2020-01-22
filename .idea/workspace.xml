@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="cosmoport:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c90b7761-4e9c-4dd0-b2d6-0537de247f3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cosmoport_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cosmoport_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bf075274-72d9-483b-8e50-0a369956fb0d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bf075274-72d9-483b-8e50-0a369956fb0d/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_199.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_18_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cosmoport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/config/MyWebAppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/controller/ShipController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/controller/ShipOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/model/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/model/ShipDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/model/ShipType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/repository/ShipRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/service/ShipService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/service/ShipServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/jq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/CreateShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/DeleteShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/GetAllTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/GetCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/GetShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/UpdateShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/utils/ShipInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/utils/TestDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.space/controller/utils/TestsHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/config/MyWebAppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/controller/ShipController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/controller/ShipOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/model/Ship.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/model/ShipDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/model/ShipType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/repository/ShipRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/ShipService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/ShipServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/space/service/dao/ShipSpecifications.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/META-INF/cosmoport.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/config/MyWebAppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/controller/ShipController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/controller/ShipOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/model/Ship.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/model/ShipDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/model/ShipType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/repository/ShipRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/ShipService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/ShipServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipDAOImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/classes/com/space/service/dao/ShipSpecifications.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/annotations-18.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/byte-buddy-1.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-5.4.4.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-5.4.4.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-data-jpa-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/bootstrap-4.3.1-dist/js/jq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cosmoport-1.0-SNAPSHOT/resources/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/CreateShipTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/DeleteShipTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/GetAllTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/GetAllTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/GetCountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/GetShipTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/UpdateShipTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/utils/ShipInfoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/utils/TestDataSourceConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/space/controller/utils/TestsHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cosmoport: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cosmoport: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="ship: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1UtbFTqNVe45EtUGDlk51XM1zzw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.space.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UpdateShipTest">
+    <configuration name="DeleteShipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cosmoport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.space.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.space.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.space.controller.DeleteShipTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cosmoport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.space.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.space.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.space.controller.GetAllTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cosmoport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.space.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.space.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.space.controller.GetCountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetShipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cosmoport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.space.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.space.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.space.controller.GetShipTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateShipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cosmoport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.space.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.space.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.space.controller.UpdateShipTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="cosmoport:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_cosmoport" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55430" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="cosmoport:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UpdateShipTest" />
+        <item itemvalue="JUnit.GetShipTest" />
+        <item itemvalue="JUnit.GetCountTest" />
+        <item itemvalue="JUnit.GetAllTest" />
+        <item itemvalue="JUnit.DeleteShipTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c90b7761-4e9c-4dd0-b2d6-0537de247f3c" name="Default Changelist" comment="" />
+      <created>1576178734062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576178734062</updated>
+      <workItem from="1576178748451" duration="1915000" />
+      <workItem from="1576182997790" duration="574000" />
+      <workItem from="1576214961931" duration="1568000" />
+      <workItem from="1576427862941" duration="5683000" />
+      <workItem from="1576470623905" duration="1168000" />
+      <workItem from="1576522877351" duration="2970000" />
+      <workItem from="1576558010332" duration="10086000" />
+      <workItem from="1576575442378" duration="241000" />
+      <workItem from="1576577284871" duration="19973000" />
+      <workItem from="1576645505148" duration="880000" />
+      <workItem from="1576743739292" duration="429000" />
+      <workItem from="1576858070916" duration="3873000" />
+      <workItem from="1579154705590" duration="8602000" />
+      <workItem from="1579165962678" duration="7207000" />
+      <workItem from="1579197092194" duration="217000" />
+      <workItem from="1579197338197" duration="596000" />
+      <workItem from="1579241584797" duration="2632000" />
+      <workItem from="1579453052480" duration="623000" />
+      <workItem from="1579454593739" duration="7125000" />
+      <workItem from="1579495501688" duration="16614000" />
+      <workItem from="1579594913370" duration="10276000" />
+      <workItem from="1579678745412" duration="225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Assign_Data_Sources" timestamp="1576574349678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1576574349678" />
+    <state x="361" y="70" key="#Project_Structure" timestamp="1576566692139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1576566692139" />
+    <state x="233" y="280" width="814" height="511" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576585312242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="233" y="280" width="814" height="511" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576585312242" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1579613767895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579613767895" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579454312719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1579454312719" />
+    <state x="462" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579167019936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1579167019936" />
+    <state x="465" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576574117555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1576574117555" />
+    <state x="301" y="8" key="CommitChangelistDialog2" timestamp="1579679123627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="301" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579679123627" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1576182420975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576182420975" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579679123764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579679123764" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579679123763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579679123763" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579679123763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579679123763" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579679123764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579679123764" />
+    <state width="1024" height="271" key="GridCell.Tab.1.bottom" timestamp="1579614067285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579614067285" />
+    <state width="1024" height="271" key="GridCell.Tab.1.center" timestamp="1579614067285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579614067285" />
+    <state width="1024" height="271" key="GridCell.Tab.1.left" timestamp="1579614067285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579614067285" />
+    <state width="1024" height="271" key="GridCell.Tab.1.right" timestamp="1579614067285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579614067285" />
+    <state width="1024" height="271" key="GridCell.Tab.2.bottom" timestamp="1579614067286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579614067286" />
+    <state width="1024" height="271" key="GridCell.Tab.2.center" timestamp="1579614067285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1579614067285" />
+    <state width="1024" height="271" key="GridCell.Tab.2.left" timestamp="1579614067285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1579614067285" />
+    <state width="1024" height="271" key="GridCell.Tab.2.right" timestamp="1579614067286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1579614067286" />
+    <state width="1024" height="271" key="GridCell.Tab.3.bottom" timestamp="1579613472418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579613472418" />
+    <state width="1024" height="271" key="GridCell.Tab.3.center" timestamp="1579613472417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1579613472417" />
+    <state width="1024" height="271" key="GridCell.Tab.3.left" timestamp="1579613472417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1579613472417" />
+    <state width="1024" height="271" key="GridCell.Tab.3.right" timestamp="1579613472418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1579613472418" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1576585209009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1576585209009" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1576570285221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576570285221" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1576858541347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1576858541347" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579495687921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579495687921" />
+    <state x="463" y="17" width="609" height="789" key="find.popup" timestamp="1576582304230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="17" width="609" height="789" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1576582304230" />
+    <state x="209" y="32" key="new project wizard" timestamp="1576566841818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1576566841818" />
+    <state x="511" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1579160364215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1579160364215" />
+    <state x="348" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1576596702489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="261" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576596702489" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/controller/ShipController.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/controller/ShipController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipDAOImpl.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipDAOImpl.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipDAOImpl.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/controller/ShipController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/controller/ShipController.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/ShipServiceImpl.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipDAOImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipDAOImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>171</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>176</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>180</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>85</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>103</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>118</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>120</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>119</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>130</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>144</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>164</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>183</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>186</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js</url>
+          <line>199</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipDAOImpl.java</url>
+          <line>63</line>
+          <properties class="com.space.service.dao.ShipDAOImpl" method="createShip">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/space/service/dao/ShipSpecifications.java</url>
+          <line>42</line>
+          <properties method="toPredicate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
