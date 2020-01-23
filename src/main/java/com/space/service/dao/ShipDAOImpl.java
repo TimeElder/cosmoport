@@ -35,7 +35,8 @@ public class ShipDAOImpl implements ShipDAO {
                                    Double minSpeed, Double maxSpeed, Integer minCrewSize,
                                    Integer maxCrewSize, Double minRating, Double maxRating,
                                    ShipOrder order, Integer pageNumber, Integer pageSize ) {
-        Specification<Ship> spec = ShipSpecifications.collect(name, planet, shipType, getTime(after), getTime(before), isUsed, minSpeed, maxSpeed,
+        TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
+        Specification<Ship> spec = ShipSpecifications.collect(name, planet, shipType,  after, before, isUsed, minSpeed, maxSpeed,
                 minCrewSize, maxCrewSize, minRating, maxRating);
 
 
